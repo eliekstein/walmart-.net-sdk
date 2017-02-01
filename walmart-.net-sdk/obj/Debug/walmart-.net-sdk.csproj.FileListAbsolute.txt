@@ -1,0 +1,5 @@
+D:\Git\Repositories\walmart-.net-sdk\walmart-.net-sdk\bin\Debug\walmart-.net-sdk.dll
+D:\Git\Repositories\walmart-.net-sdk\walmart-.net-sdk\bin\Debug\walmart-.net-sdk.pdb
+D:\Git\Repositories\walmart-.net-sdk\walmart-.net-sdk\obj\Debug\walmart-.net-sdk.csprojResolveAssemblyReference.cache
+D:\Git\Repositories\walmart-.net-sdk\walmart-.net-sdk\obj\Debug\walmart-.net-sdk.dll
+D:\Git\Repositories\walmart-.net-sdk\walmart-.net-sdk\obj\Debug\walmart-.net-sdk.pdb
